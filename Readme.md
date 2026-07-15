@@ -1,3 +1,5 @@
+#live site @ vtublog.infinityfreeapp.com
+
 # VTUBLOG 🎓
 
 A full-featured **student blogging platform** built for the VTU community, where students can share knowledge, publish articles, explore campus-related content, and collaborate through a modern role-based blogging system.
